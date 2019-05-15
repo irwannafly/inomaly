@@ -1,8 +1,8 @@
 
-inomaly: my first package (Developing..)
+inomaly: my first package (On developing..)
 =====================================================================================================
 
-*solution for anomaly data*
+*solution for big data*
 
 `inomaly` is an R package which contains:
 
