@@ -1,5 +1,5 @@
 
-inomaly: my first package (Beta) <img src="man/figures/logo.png" align="right" height="140" width="120"/>
+inomaly: my first package (Beta) <img src="man/figures/logo.png" align="right"/>
 =====================================================================================================
 
 *solution for anomaly data*
