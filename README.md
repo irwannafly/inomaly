@@ -13,5 +13,5 @@ Installation
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("irwannafly/anomaly")
+devtools::install_github("irwannafly/inomaly")
 ```
