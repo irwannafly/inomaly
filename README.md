@@ -17,7 +17,7 @@ devtools::install_github("irwannafly/inomaly")
 ```
 
 Example
-=====================================================================================================
+------------
 ``` r
 # Create data set with missing values
 #' naDF <- data.frame(a = sample(c(1,2), 100, rep=TRUE), 
