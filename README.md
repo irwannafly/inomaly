@@ -2,7 +2,7 @@
 inomaly: my first package (On developing..)
 =====================================================================================================
 
-*solution for big data*
+*Solution for big data*
 
 `inomaly` is an R package which contains:
 
@@ -21,15 +21,15 @@ Example
 Create data set with missing values as follow.
 ``` r
 naDF <- data.frame(a = sample(c(1,2), 100, rep=TRUE), 
-                    b = sample(c(3,4), 100, rep=TRUE), 
-                    fNA = sample(c(100, 200, 300, 400, NA), 100, rep=TRUE))
+                   b = sample(c(3,4), 100, rep=TRUE), 
+                 fNA = sample(c(100, 200, 300, 400, NA), 100, rep=TRUE))
 
 ```
 Create full dataset
 ``` r
 fillDF <- data.frame(a = c(1,2,1,2), 
-                      b = c(3,3,4,4),
-                      fFull = c(100, 200, 300, 400))
+                     b = c(3,3,4,4),
+                 fFull = c(100, 200, 300, 400))
 ```
 
 Fill in missing f's from naDF with values from fillDF
