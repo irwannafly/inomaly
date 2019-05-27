@@ -6,7 +6,7 @@ inomaly: my first package (On developing..)
 
 `inomaly` is an R package which contains:
 
-R function for filling in missing values of a variable from one data frame with the values from another variable.
+R function for filling in loss values of a variable from one data frame with the values from another variable.
 
 Installation
 ------------
