@@ -22,7 +22,7 @@ Example
 ------------
 
 `FillIn` is function for filling missing values, 
-`outliersZ` is function for checking outlier
+`outliersZ` is function for checking outlier.
 
 
 Create data set with missing values as follow.
