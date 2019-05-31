@@ -6,7 +6,8 @@ inomaly: my first package (On developing..)
 
 `inomaly` is an R package which contains:
 
-R function for filling in loss values of a variable from one data frame with the values from another variable.
+R function for anomaly detection, filling in loss values of a variable from one data frame with the values from another variable, checking outliers then replacing them with other value or cluster value.
+
 
 Installation
 ------------
@@ -15,6 +16,9 @@ Installation
 install.packages("devtools")
 devtools::install_github("irwannafly/inomaly")
 ```
+
+
+`FillIn` is function for filling missing values
 
 Example
 ------------
@@ -36,5 +40,14 @@ Fill in missing f's from naDF with values from fillDF
 ``` r
 FilledInData <- FillIn(naDF, fillDF, Var1 = "fNA", Var2 = "fFull", KeyVar = c("a", "b"))
 ```
+`outliersZ` is function for checking outlier
+
+Example
+------------
+``` r
+df$column1<-outliersZ(df$column1, zCutOff = 1.96, replace = NA, values = FALSE, digits = 4)
+
+```
+
 
 
