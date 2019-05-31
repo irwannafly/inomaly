@@ -43,7 +43,7 @@ FilledInData <- FillIn(naDF, fillDF, Var1 = "fNA", Var2 = "fFull", KeyVar = c("a
 `outliersZ` is function for checking outlier
 
 Example
-------------
+---
 ``` r
 df$column1<-outliersZ(df$column1, zCutOff = 1.96, replace = NA, values = FALSE, digits = 4)
 
