@@ -20,8 +20,10 @@ devtools::install_github("irwannafly/inomaly")
 
 Example
 ------------
-  `FillIn` is function for filling missing values
-  `outliersZ` is function for checking outlier
+
+`FillIn` is function for filling missing values
+`outliersZ` is function for checking outlier
+
 
 Create data set with missing values as follow.
 ``` r
