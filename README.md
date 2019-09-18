@@ -5,7 +5,7 @@ inomaly: my first package (On developing..)
 
 `inomaly` is an R package which contains:
 
-R function for anomaly detection, filling in loss values of a variable from one data frame with the values from another variable, checking outliers then replacing them with other value or cluster value.
+R function for anomaly detection, filling in loss values of a variable from one data frame with the values from another variable, checking outliers then replacing them with other value or mean vector value.
 
 Installation
 ------------
