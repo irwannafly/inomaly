@@ -1,4 +1,4 @@
-inomaly: my first package (On developing..)
+inomaly: my first package (Still on developing..)
 =====================================================================================================
 
 *Solution for big data*
