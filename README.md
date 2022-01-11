@@ -1,4 +1,4 @@
-inomaly: an automation for filling blank data)
+inomaly: an automation for filling blank data
 =====================================================================================================
 
 *Solution for big data*
