@@ -1,4 +1,4 @@
-inomaly: my first package (Still on developing..)
+inomaly: automate fill missing data)
 =====================================================================================================
 
 *Solution for big data*
